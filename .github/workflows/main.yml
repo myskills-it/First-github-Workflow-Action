@@ -8,7 +8,6 @@ jobs:
    demo: 
      runs-on: ubuntu-latest
 
-   steps:
-       - name: Greetings
-        run: echo   "Hello Done by me"
-    
+     steps:
+         - name: Greetings
+           run: echo   "Hello Done by me"    
